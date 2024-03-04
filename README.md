@@ -6,8 +6,15 @@ This project outlines the usage of node streams. I thought it would be a more co
 
 ## Installation
 
-To install the project run npm i.
+Run `npm i` to all the required npm dependencies.
 
 ## Usage
 
-Instructions on how to use your project.
+Run `npm start` to run the script.
+
+## Folder Structure
+
+This project consists of two files:
+
+- `src/index.ts`: the script with all the implementation for this project.
+- `data.csv`: a spreadsheet with 200 inventory items
